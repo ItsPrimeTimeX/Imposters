@@ -1,4 +1,4 @@
-local IDs = {
+local correctIDs = {
     23678101, -- 1
     476364533, -- Void
     287452668, -- Jack
@@ -9,4 +9,4 @@ local IDs = {
     2627329623, -- 100muda / (857234521991544833)
     1483347879 -- yakushi2680 / (902430633123516416)
 }
-return IDs
+return correctIDs
